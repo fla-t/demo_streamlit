@@ -1,0 +1,81 @@
+date,patient_id,provider_id,note,category
+3/16/23,2428861a-d5d3-4c91-8264-86a3cd2200a4,ad0459ae-5bfb-41f9-8e81-fddbf0db2682,Pt ate 50% of lunch; appetite appears stable. Hydration maintained with oral fluids.,Regular
+3/6/23,abccf08c-6e41-44bb-a343-0ab1e892ae0d,ad41cb6e-19cd-4ec8-9da8-f463f069e037,"Assisted pt with toileting, no issues with mobility noted. Skin intact.",Regular
+12/25/23,d105a974-8d0c-43a8-971e-e2f3eb33201e,7e333a93-0b99-4044-8d6c-91aad3870a13,Administered evening meds as scheduled; no adverse reactions.,Regular
+1/1/23,86d29a3e-9bfa-4d1d-bf02-8b40f291eefe,1e1eabc6-7d3c-42ec-9737-89d3889c9bdf,"Pt reported mild pain in right knee. Gave Tylenol, and pt reported relief within 30 minutes.",Regular
+2/2/23,a28a06a7-8cc1-4613-bd6b-8f24cbfdb436,70ee2e6e-eb87-4ddc-b879-34760aff29b4,Assisted pt with showering. Pt cooperative and thanked staff for assistance.,Regular
+4/2/23,6ad38db0-8742-40d5-9368-b8497f0fb2cd,e5e84a70-d65a-4f43-beef-2f1899880d75,"Pt refused breakfast, stating lack of appetite. Encouraged fluids.",Regular
+4/15/23,872e024f-7964-4d74-8ddf-deeed49cd592,5ef5122a-d678-474a-a81c-6eba05454045,Performed wound dressing change on left arm; healing progressing well.,Regular
+6/15/23,62a30f2b-c7bf-4110-bb25-e8506e3f4762,8d346cca-fb1e-4fa7-8eca-332f04d0d300,Pt ambulated 30 feet with walker and minimal assistance.,Regular
+6/13/23,f9929ed9-1223-45dd-b06d-243ffc9f3a3a,96ac03b3-e56e-4408-bd95-efdb0f472c34,Pt alert and oriented; verbalized understanding of medication schedule.,Regular
+2/4/23,e80cb30b-39b3-4ca7-942d-ed227724ab49,70f54a7c-fbff-4fd0-b8b1-36d654b0c474,Pt expressed gratitude for care received today. Engaged in conversation.,Regular
+9/13/23,3bb23fe5-bd4b-460c-aa1c-88699eb8ac02,c3b550a9-2487-4833-b137-4404354c8304,Assisted pt with transferring from bed to chair. No dizziness reported.,Regular
+3/14/23,ae81c558-eaaa-46a3-86aa-5c55d6b171b6,e2917e05-ae47-45f3-82b6-c5018b1752f1,Pt completed physical therapy session without complaints. Mobility slightly improved.,Regular
+11/21/23,07e63d21-f05b-4f92-ace2-7e8b4e2c6504,9ec98ca5-7c45-46b9-a2c3-d280701398a8,"Pt resting comfortably in bed, watching television.",Regular
+4/13/23,59a77cbb-8e9c-4155-9f40-e3ffaeb79749,6b64c5ba-5aba-4de6-831c-95d1afc5952b,"Monitored pt’s vital signs, all within normal range.",Regular
+4/25/23,a8e42e7a-0b26-49f9-8eb1-5a47e244d2ba,321908f4-661b-45c0-bc31-abed02e6eed9,Pt requested extra blanket for comfort; provided as requested.,Regular
+3/26/23,b20e1b36-523d-4f88-9f2a-11e2bd0e4122,9fdc8cd1-f52d-4d19-96f3-70ab37dacb6c,Provided pt with reading glasses upon request. Pt appreciated assistance.,Regular
+8/26/23,c48c6326-6acb-4c1a-a074-24245daf20ae,1607d6bc-2935-43ab-a455-e4c93b3ae2b1,"Assisted pt with oral care, and pt thanked staff afterward.",Regular
+11/5/23,9fcb2dc9-fbde-42f8-9698-777d605522cb,95da6b09-52b4-45b0-873d-870103a42ea3,Administered cough syrup for mild sore throat; pt reported relief.,Regular
+6/5/23,6428b34a-7bd2-4536-83c3-1dbd4f1ea36f,2171fde8-e61d-4e99-bc36-f7febc1e1b2b,Pt drank full glass of water without assistance; hydration is good.,Regular
+4/3/23,77e83a0b-22fd-4bf1-8a0e-863e4c8bb148,d2de6dae-fa7e-4982-9b8d-ff6791a87cf5,Assisted pt with brushing hair. Pt expressed satisfaction with self-care.,Regular
+1/20/23,f7d4cb31-a036-44c3-a93d-6c3366fb1993,46549a97-9fbe-4f10-b76d-5fe7c821a3bf,"Pt voiced thoughts of self-harm, stated “I don’t feel safe with myself.” Alerted physician.",High-Risk
+3/7/23,24ab1843-9aaa-4646-ab2e-b7032c1330b0,5f2fa04b-227f-400a-aa7e-55c8500dc319,"Pt expressed strong feelings of hopelessness, saying “I just want to disappear.”",High-Risk
+1/15/23,6c9e0ae7-3777-4c0e-a22c-8be49d28f65a,0243c24b-4be1-4e6d-9d5f-33160ec445b4,Pt threatened to harm another resident when asked to return to their room.,High-Risk
+7/27/23,806aacb8-5313-456c-a439-e87005df6225,a83fb641-c873-4ba3-92a9-28b9e9e300de,Staff observed needle marks on pt’s arm; pt admitted to recent drug use.,High-Risk
+7/21/23,eb826f07-d6f3-4f9e-b990-a9fdc205a030,883efda6-a6a8-487a-82a7-2427cf34722a,Pt reports daily feelings of worthlessness and talks about being a burden.,High-Risk
+5/23/23,60229058-99fe-40ed-aa11-c1fcbe6efe70,29b4d7b5-af39-4601-bed2-c90e1879bf05,Pt stated they don’t see the point in living. Contacted psychiatrist.,High-Risk
+10/28/23,fc6a8bfa-1841-44ce-9e07-7ae38378bb05,8e1b1c68-cc1b-400d-b3d3-5b5186d784c6,"Pt appeared intoxicated, slurred speech and unsteady gait. Notified MD.",High-Risk
+1/18/23,9f841431-642a-4add-a4ce-da0ceb28ed96,dcc0f735-79dd-461f-9dad-2b6ec1520a44,Security called due to pt’s aggression toward staff during mealtime.,High-Risk
+1/15/23,631a49f5-16ff-4e04-8220-f8b07b58c640,6a1ab93f-6740-4145-9b15-476513ea555c,"Pt refused meds, becoming increasingly hostile, stating “Leave me alone.”",High-Risk
+12/19/23,901ffec5-86a9-4e91-9cde-410b3dbd37cb,339d9166-655a-4524-81c1-36b065df0b98,Pt expressed thoughts of ending their life; called crisis intervention.,High-Risk
+10/20/23,263f65fa-2ada-4ac1-8e5a-19b2de417e6f,cf8f50de-7116-411c-a185-a600d0b60e0d,Pt required IV fluids for severe dehydration; monitoring closely.,High-Risk
+11/3/23,2fe17e22-2fea-404b-8a54-57855aec88a4,e13464f2-474f-4cee-8aa1-3eba275c3bdf,Pt expressed “no reason to live anymore” and mentioned past overdose.,High-Risk
+12/22/23,14772553-ab33-4e6e-b2d1-18475e65f2db,2695dfe8-7ec5-460b-b306-026e6bdf75ac,Pt was observed talking about wanting to harm others. Security on standby.,High-Risk
+4/1/23,1405e562-16cc-4326-a4a4-0f8f8334b490,15cbb781-f2a3-4c85-b8ae-7680be4eea34,Pt mentioned feeling depressed and has stopped engaging in usual activities.,High-Risk
+11/4/23,3d21f66b-867c-44ca-9939-1476318ae155,80a14c90-fa9e-4743-83a5-d18d90d870d0,Pt talked about plans to hurt themselves if left alone. Alerted supervisor.,High-Risk
+10/18/23,7b3eebed-57c8-48f9-938e-b99ab0f34172,d4082d64-5518-40e5-a7bb-8f3350e8c75a,"Pt admitted to recent illicit drug use, saying they “needed an escape.”",High-Risk
+8/13/23,fd248992-e08b-46a2-ae88-66d70b5d95a0,40df6fa5-97f1-4c02-b562-bdc972e7e084,Pt reported feelings of depression and said they “just want it to stop.”,High-Risk
+8/28/23,51ddbd97-9c5f-440b-9a63-04de06ec7d09,d26504e1-35ce-47cc-a63e-f50014445c75,"Pt showed signs of withdrawal, sweating and visibly shaking. MD notified.",High-Risk
+5/4/23,544fd9a4-cdf2-4645-83f1-8d00815aa82f,d68962bd-bf6c-4be9-a532-65a88498944d,Pt referred to “self-harm” in conversation with staff; monitoring closely.,High-Risk
+11/27/23,cd2e0847-30ab-4160-a099-f866512998e5,02167d1b-cc7b-45e7-9204-f0b66a29685a,Pt expressed a desire to overdose on medication; care team informed.,High-Risk
+12/4/23,0153944b-a647-4326-9af2-ada0b87857e1,8069d6bf-0ef3-427d-8651-8443f46b3b3f,Pt stated “everything feels pointless” and is isolating from other residents.,"High-Risk, No Exact Match"
+9/22/23,59fe88ce-6bb9-4bab-bdb1-995bdf8c9d7d,c3cf5fe0-08b4-4136-9f3e-037f10f4b513,"Pt showed signs of agitation, pushing staff away when approached.","High-Risk, No Exact Match"
+7/31/23,00ea4a70-2e45-41ec-b129-ac5048a5d1db,0ba7fbf0-13da-4b2c-b43f-7937b2f249a1,Pt expressed being “done with life” and has declined all activities today.,"High-Risk, No Exact Match"
+3/20/23,47cfa566-414c-4fd4-aadb-20051767b827,78dcc232-7180-40b8-b955-7cda59f27e84,Pt repeatedly said “nothing matters anymore” and avoided eye contact.,"High-Risk, No Exact Match"
+2/13/23,ea0ee208-552e-40af-a52f-98d6c70eebcd,acc3eab8-900b-46e7-92c5-74fae12dfb41,Pt talked about feeling “completely alone” and “stuck in a dark place.”,"High-Risk, No Exact Match"
+9/30/23,1db2e851-dc40-4417-a22d-18e3d1fbf37f,e533f912-627d-40a5-949b-5bb342dd8837,"Pt became verbally aggressive, stating they “can’t stand being here” anymore.","High-Risk, No Exact Match"
+6/18/23,4859ab4a-4ded-4929-9010-42e08d97efe1,9e0dc45e-0b86-462b-bed7-4d006c5a62e2,Pt mentioned “not feeling safe” and spoke about “needing an escape.”,"High-Risk, No Exact Match"
+10/12/23,2eff1866-e811-4df6-8c65-bff42111aa9f,e056507c-d3a4-4c14-aa39-c20924d279d2,"Observed pt pacing room, muttering that they “can’t handle it.”","High-Risk, No Exact Match"
+6/26/23,b22d3f76-1267-4cd1-b4ab-5e9c259efa63,eae562c0-733e-4e66-9858-1da4c597acd1,Pt shared feeling “lost” and that “there’s no way out.”,"High-Risk, No Exact Match"
+10/11/23,d79f22a0-f1c4-4fcb-8f1d-b33f4058224c,1cdb1d04-5ef0-45cf-b3f6-64b2fd8a243c,Pt avoided eating and mentioned that “life feels heavy.”,"High-Risk, No Exact Match"
+9/1/23,8cd5dff6-2c62-433d-bbf8-e073fd718049,f7b3732f-ef88-4e24-896a-9cc9fabb2d8a,Pt said they are “too tired to keep going” and avoided any engagement.,"High-Risk, No Exact Match"
+3/19/23,61c0760f-d3ed-49ac-9730-4b7417a8d8a0,20f8ea75-d16c-4f5d-a7c9-85e0378704bb,"Pt avoided all interaction, stating “I’m done with people.”","High-Risk, No Exact Match"
+9/29/23,1146fb3a-02cf-4719-94a0-4fe55304a443,1e3e0b25-72bd-4f76-9ed6-27e727cc4be1,Pt described recent choices that left them “feeling numb.”,"High-Risk, No Exact Match"
+1/30/23,e4025dce-0596-47d5-ba33-abffad3ecc57,b07b023c-89a9-49c2-a900-2409b483eb68,"Pt refused to get out of bed, saying “nothing makes sense anymore.”","High-Risk, No Exact Match"
+10/1/23,84f68b43-77a5-41d2-874c-94019b487db5,2eb7659c-f6dd-4e04-9751-3b03b189064d,"Pt appeared unusually withdrawn, stating “I have no energy for anything.”","High-Risk, No Exact Match"
+4/14/23,5494278a-c0ac-437e-8589-cd095ca2d8bb,5ab6ddf7-0545-413c-9af1-4fc9ca43b03c,"Pt isolated, muttering that they “don’t belong here.”","High-Risk, No Exact Match"
+11/9/23,412ecf31-bac3-4973-b7d2-50e7e0da31c6,135246d4-2e5a-444e-b05b-4184cfa1ec04,"Pt declined meds, saying “what’s the point?”","High-Risk, No Exact Match"
+8/26/23,4cf703ed-8dc2-4d02-b396-a036915b865a,d101e71f-77a6-42ef-adb3-f72ea899602f,Pt mentioned feeling “empty” and that “nothing will change.”,"High-Risk, No Exact Match"
+12/29/23,c6b3449a-38e1-480f-a7c2-53dac4fd3b2c,2c096c79-d430-4992-930f-ced7058c1d4a,"Pt has stopped speaking to others, stating “everything’s over.”","High-Risk, No Exact Match"
+5/30/23,11544663-8f6a-460d-a87b-5748a2674f05,55fee303-d861-42e4-9ef2-122e5bda533f,"Pt mentioned they’re “just here to wait it out,” avoiding conversation.","High-Risk, No Exact Match"
+1/18/23,b7c5fbbc-df56-4585-8d5b-22445e925816,108b15de-2d47-4ec6-9c12-582773c22b10,Pt denies any past self-harm or suicidal thoughts.,False Flag
+9/21/23,fbae0cd1-41b6-44dd-9564-c099347ef1e0,41b7c76f-a8ad-4653-b81a-15e3eb9760af,Pt excited to live closer to family after discharge.,False Flag
+9/23/23,f2bd2784-8fc5-4383-9cc9-7df5c8838ffb,8b84be93-afff-43ef-8a53-8af248216b20,No requirement for IV fluids; pt’s hydration sufficient.,False Flag
+10/18/23,684f66f7-9ebb-46f7-8fdb-7067f2b81dda,14e995d4-4ab8-4ae7-a47b-5b977d30b43d,Pt remarked they “never felt safer” in the facility.,False Flag
+2/7/23,ecebeddf-c320-446c-8f50-6ff1f4fbebd2,a66e4400-5109-4b0b-b19a-5b7307896cb5,Pt discussed wanting to give “everything I have to my kids.”,False Flag
+9/24/23,adc21899-6479-475c-97ad-f36ccacab243,19067c9f-b79b-4124-b24a-1bec0a6f7164,No illicit substances detected in pt’s urine screen.,False Flag
+3/23/23,252504aa-0a76-47ed-8b79-4004f30eb4e8,b2908a9d-b09a-4680-8539-6c0a52ae20fc,Pt wishes to live near a park for relaxation.,False Flag
+4/15/23,ca0e95d8-ab56-4913-8ae3-b9fa388849cb,8546107a-e0da-434c-9fe2-0607286f4968,Pt shows no signs of aggression or hostility today.,False Flag
+11/3/23,f9e6d749-398d-418f-b32f-778937b122d2,b84e053e-469c-42b0-8062-62751f0f602a,Pt felt “so alive” after yesterday’s outdoor activity.,False Flag
+9/25/23,c4e43cdf-4b33-40af-af1f-3df898947391,58f822dd-914d-434c-b13f-32660acab058,Pt has no history of addiction or substance abuse.,False Flag
+7/8/23,0fc293f4-5c22-4045-ad07-a9b2e618b0c2,b66cfffe-6a72-43c2-9317-1278cfe764fd,"No evidence of depression, pt reports feeling “happy.”",False Flag
+8/9/23,828e6562-ef2f-45be-bc2e-bfaba733e293,bae2b635-4b60-4634-8167-d0d0e6a5b6d0,Pt denied needing any help with mobility.,False Flag
+9/17/23,4645e23f-be4c-4215-9560-7a629b64bcf6,41765e49-c1a4-423b-ac28-5a314d7743d1,Pt felt strong urge to “live independently.”,False Flag
+7/27/23,e909e2f2-c5aa-43da-9ecf-5f51a4424071,f6ee683f-5b2a-4501-af3c-a3550cce5147,Pt denies experiencing hopelessness or helplessness.,False Flag
+4/27/23,f1f2be9f-70d1-4ca8-819d-6033e7a553ff,628a8f9b-931d-447b-9a97-84ab547c6d5c,"No aggressive behavior reported, pt cooperative.",False Flag
+1/20/23,103e4bd9-e6d5-4185-b4d6-7d31842d521b,3c3bf4e3-2f73-479a-bb7c-2fe344d0481c,"Pt is not a threat to others, expressing gratitude to staff.",False Flag
+4/3/23,e8eef6be-3e50-4b1e-88dc-6eed7a2077e2,ccc924f4-f1d2-4bb1-ab3b-2765592ba4d1,Pt “loves life” and shows no depressive symptoms.,False Flag
+11/23/23,b8baaa72-178a-4b78-80c9-d3f65538724b,65767089-f54e-4317-9fcb-0ea2307addb7,Pt denies any violence in their family history.,False Flag
+9/10/23,0860caea-398d-47e0-965e-789ce56e5b9c,61881834-ca7d-43d2-b346-8ff514174e0e,"No narcotics given today, pt reported no pain.",False Flag
+3/8/23,8f8666d3-188d-4e07-bbf3-d56dbd39c7f7,c5771bb7-2ee2-459a-991f-b2395a91d217,"Pt feeling “blessed to be alive,” sharing positivity with peers.",False Flag

@@ -1,0 +1,40 @@
+date,patient_id,provider_id,note,category
+3/16/23,2428861a-d5d3-4c91-8264-86a3cd2200a4,ad0459ae-5bfb-41f9-8e81-fddbf0db2682,Pt ate 50% of lunch; appetite appears stable. Hydration maintained with oral fluids.,Regular
+3/6/23,abccf08c-6e41-44bb-a343-0ab1e892ae0d,ad41cb6e-19cd-4ec8-9da8-f463f069e037,"Assisted pt with toileting, no issues with mobility noted. Skin intact.",Regular
+12/25/23,d105a974-8d0c-43a8-971e-e2f3eb33201e,7e333a93-0b99-4044-8d6c-91aad3870a13,Administered evening meds as scheduled; no adverse reactions.,Regular
+1/1/23,86d29a3e-9bfa-4d1d-bf02-8b40f291eefe,1e1eabc6-7d3c-42ec-9737-89d3889c9bdf,"Pt reported mild pain in right knee. Gave Tylenol, and pt reported relief within 30 minutes.",Regular
+2/2/23,a28a06a7-8cc1-4613-bd6b-8f24cbfdb436,70ee2e6e-eb87-4ddc-b879-34760aff29b4,Assisted pt with showering. Pt cooperative and thanked staff for assistance.,Regular
+4/2/23,6ad38db0-8742-40d5-9368-b8497f0fb2cd,e5e84a70-d65a-4f43-beef-2f1899880d75,"Pt refused breakfast, stating lack of appetite. Encouraged fluids.",Regular
+4/15/23,872e024f-7964-4d74-8ddf-deeed49cd592,5ef5122a-d678-474a-a81c-6eba05454045,Performed wound dressing change on left arm; healing progressing well.,Regular
+6/15/23,62a30f2b-c7bf-4110-bb25-e8506e3f4762,8d346cca-fb1e-4fa7-8eca-332f04d0d300,Pt ambulated 30 feet with walker and minimal assistance.,Regular
+6/13/23,f9929ed9-1223-45dd-b06d-243ffc9f3a3a,96ac03b3-e56e-4408-bd95-efdb0f472c34,Pt alert and oriented; verbalized understanding of medication schedule.,Regular
+2/4/23,e80cb30b-39b3-4ca7-942d-ed227724ab49,70f54a7c-fbff-4fd0-b8b1-36d654b0c474,Pt expressed gratitude for care received today. Engaged in conversation.,Regular
+9/13/23,3bb23fe5-bd4b-460c-aa1c-88699eb8ac02,c3b550a9-2487-4833-b137-4404354c8304,Assisted pt with transferring from bed to chair. No dizziness reported.,Regular
+3/14/23,ae81c558-eaaa-46a3-86aa-5c55d6b171b6,e2917e05-ae47-45f3-82b6-c5018b1752f1,Pt completed physical therapy session without complaints. Mobility slightly improved.,Regular
+11/21/23,07e63d21-f05b-4f92-ace2-7e8b4e2c6504,9ec98ca5-7c45-46b9-a2c3-d280701398a8,"Pt resting comfortably in bed, watching television.",Regular
+4/13/23,59a77cbb-8e9c-4155-9f40-e3ffaeb79749,6b64c5ba-5aba-4de6-831c-95d1afc5952b,"Monitored pt’s vital signs, all within normal range.",Regular
+4/25/23,a8e42e7a-0b26-49f9-8eb1-5a47e244d2ba,321908f4-661b-45c0-bc31-abed02e6eed9,Pt requested extra blanket for comfort; provided as requested.,Regular
+3/26/23,b20e1b36-523d-4f88-9f2a-11e2bd0e4122,9fdc8cd1-f52d-4d19-96f3-70ab37dacb6c,Provided pt with reading glasses upon request. Pt appreciated assistance.,Regular
+8/26/23,c48c6326-6acb-4c1a-a074-24245daf20ae,1607d6bc-2935-43ab-a455-e4c93b3ae2b1,"Assisted pt with oral care, and pt thanked staff afterward.",Regular
+11/5/23,9fcb2dc9-fbde-42f8-9698-777d605522cb,95da6b09-52b4-45b0-873d-870103a42ea3,Administered cough syrup for mild sore throat; pt reported relief.,Regular
+6/5/23,6428b34a-7bd2-4536-83c3-1dbd4f1ea36f,2171fde8-e61d-4e99-bc36-f7febc1e1b2b,Pt drank full glass of water without assistance; hydration is good.,Regular
+4/3/23,77e83a0b-22fd-4bf1-8a0e-863e4c8bb148,d2de6dae-fa7e-4982-9b8d-ff6791a87cf5,Assisted pt with brushing hair. Pt expressed satisfaction with self-care.,Regular
+1/20/23,f7d4cb31-a036-44c3-a93d-6c3366fb1993,46549a97-9fbe-4f10-b76d-5fe7c821a3bf,"Pt voiced thoughts of self-harm, stated “I don’t feel safe with myself.” Alerted physician.",High-Risk
+3/7/23,24ab1843-9aaa-4646-ab2e-b7032c1330b0,5f2fa04b-227f-400a-aa7e-55c8500dc319,"Pt expressed strong feelings of hopelessness, saying “I just want to disappear.”",High-Risk
+1/15/23,6c9e0ae7-3777-4c0e-a22c-8be49d28f65a,0243c24b-4be1-4e6d-9d5f-33160ec445b4,Pt threatened to harm another resident when asked to return to their room.,High-Risk
+7/27/23,806aacb8-5313-456c-a439-e87005df6225,a83fb641-c873-4ba3-92a9-28b9e9e300de,Staff observed needle marks on pt’s arm; pt admitted to recent drug use.,High-Risk
+7/21/23,eb826f07-d6f3-4f9e-b990-a9fdc205a030,883efda6-a6a8-487a-82a7-2427cf34722a,Pt reports daily feelings of worthlessness and talks about being a burden.,High-Risk
+5/23/23,60229058-99fe-40ed-aa11-c1fcbe6efe70,29b4d7b5-af39-4601-bed2-c90e1879bf05,Pt stated they don’t see the point in living. Contacted psychiatrist.,High-Risk
+10/28/23,fc6a8bfa-1841-44ce-9e07-7ae38378bb05,8e1b1c68-cc1b-400d-b3d3-5b5186d784c6,"Pt appeared intoxicated, slurred speech and unsteady gait. Notified MD.",High-Risk
+1/18/23,9f841431-642a-4add-a4ce-da0ceb28ed96,dcc0f735-79dd-461f-9dad-2b6ec1520a44,Security called due to pt’s aggression toward staff during mealtime.,High-Risk
+1/15/23,631a49f5-16ff-4e04-8220-f8b07b58c640,6a1ab93f-6740-4145-9b15-476513ea555c,"Pt refused meds, becoming increasingly hostile, stating “Leave me alone.”",High-Risk
+12/19/23,901ffec5-86a9-4e91-9cde-410b3dbd37cb,339d9166-655a-4524-81c1-36b065df0b98,Pt expressed thoughts of ending their life; called crisis intervention.,High-Risk
+10/20/23,263f65fa-2ada-4ac1-8e5a-19b2de417e6f,cf8f50de-7116-411c-a185-a600d0b60e0d,Pt required IV fluids for severe dehydration; monitoring closely.,High-Risk
+11/3/23,2fe17e22-2fea-404b-8a54-57855aec88a4,e13464f2-474f-4cee-8aa1-3eba275c3bdf,Pt expressed “no reason to live anymore” and mentioned past overdose.,High-Risk
+12/22/23,14772553-ab33-4e6e-b2d1-18475e65f2db,2695dfe8-7ec5-460b-b306-026e6bdf75ac,Pt was observed talking about wanting to harm others. Security on standby.,High-Risk
+4/1/23,1405e562-16cc-4326-a4a4-0f8f8334b490,15cbb781-f2a3-4c85-b8ae-7680be4eea34,Pt mentioned feeling depressed and has stopped engaging in usual activities.,High-Risk
+11/4/23,3d21f66b-867c-44ca-9939-1476318ae155,80a14c90-fa9e-4743-83a5-d18d90d870d0,Pt talked about plans to hurt themselves if left alone. Alerted supervisor.,High-Risk
+10/18/23,7b3eebed-57c8-48f9-938e-b99ab0f34172,d4082d64-5518-40e5-a7bb-8f3350e8c75a,"Pt admitted to recent illicit drug use, saying they “needed an escape.”",High-Risk
+8/13/23,fd248992-e08b-46a2-ae88-66d70b5d95a0,40df6fa5-97f1-4c02-b562-bdc972e7e084,Pt reported feelings of depression and said they “just want it to stop.”,High-Risk
+8/28/23,51ddbd97-9c5f-440b-9a63-04de06ec7d09,d26504e1-35ce-47cc-a63e-f50014445c75,"Pt showed signs of withdrawal, sweating and visibly shaking. MD notified.",High-Risk
+5/4/23,544fd9a4-cdf2-4645-83f1-8d00815aa82f,d68962bd-bf6c-4be9-a532-65a88498944d,Pt referred to “self-harm” in conversation with staff; monitoring closely.,High-Risk
