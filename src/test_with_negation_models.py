@@ -74,9 +74,9 @@ if uploaded_file:
         if keywords and keywords[0].strip():
             # Slider for distance threshold
             max_distance = st.slider(
-                "Set maximum distance threshold",
+                "Set maximum distance threshold (closer to 0 is more strict)",
                 min_value=0.0,
-                max_value=1.0,
+                max_value=2.0,
                 value=1.0,
                 step=0.001,
             )
