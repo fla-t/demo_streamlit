@@ -49,7 +49,7 @@ def find_closest_match(
         return None, None  # Return None if no match is within the threshold
 
 
-st.title("RTB-Search Embeddings Test with Pinecone")
+st.title("Progress Notes Embeddings Test")
 
 uploaded_file = st.file_uploader("Upload a CSV file", type="csv")
 
