@@ -51,7 +51,7 @@ def find_closest_match(
 
 st.title("Progress Notes Embeddings Test")
 
-uploaded_file = st.file_uploader("Upload a CSV file", type="csv")
+uploaded_file = st.file_uploader("Upload a CSV file with progress notes", type="csv")
 
 if uploaded_file:
     df = pd.read_csv(uploaded_file)
