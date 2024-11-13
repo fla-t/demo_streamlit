@@ -60,13 +60,27 @@ if uploaded_file:
     if text_column:
         sentences = df[text_column].fillna("").tolist()
 
-        keywords = st.text_input("Enter keywords separated by commas").split(",")
-        # Slider for distance threshold
-        max_distance = st.slider(
-            "Set maximum distance threshold", min_value=0.0, max_value=1.0, value=0.5
+        keyword_file = st.file_uploader(
+            "Upload a text file with keywords (columns: Category, Keyword)", type="csv"
         )
 
+        keywords = None
+
+        if keyword_file:
+            # combine the category and keyword columns into a single list
+            keyword_df = pd.read_csv(keyword_file)
+            keywords = keyword_df["keyword"].astype(str).tolist()
+
         if keywords and keywords[0].strip():
+            # Slider for distance threshold
+            max_distance = st.slider(
+                "Set maximum distance threshold",
+                min_value=0.0,
+                max_value=1.0,
+                value=1.0,
+                step=0.001,
+            )
+
             # Apply the function to each row
             df[["keyword_matched", "keyword_matched_distance"]] = df[text_column].apply(
                 lambda sentence: pd.Series(
@@ -74,10 +88,10 @@ if uploaded_file:
                 )
             )
 
-        st.write("Top keyword matches for each row:")
-        st.dataframe(df)
-        st.download_button(
-            "Download results as CSV",
-            df.to_csv(index=False),
-            file_name="matched_keywords_with_distances.csv",
-        )
+            st.write("Top keyword matches for each row:")
+            st.dataframe(df)
+            st.download_button(
+                "Download results as CSV",
+                df.to_csv(index=False),
+                file_name="matched_keywords_with_distances.csv",
+            )
