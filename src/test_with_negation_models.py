@@ -69,7 +69,10 @@ if uploaded_file:
         if keyword_file:
             # combine the category and keyword columns into a single list
             keyword_df = pd.read_csv(keyword_file)
-            keywords = keyword_df["keyword"].astype(str).tolist()
+            keyword_column = st.selectbox(
+                "Select the column containing keywords", keyword_df.columns
+            )
+            keywords = keyword_df[keyword_column].astype(str).tolist()
 
         if keywords and keywords[0].strip():
             # Slider for distance threshold
